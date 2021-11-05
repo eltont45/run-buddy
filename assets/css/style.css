@@ -171,6 +171,7 @@ section {
     align-items: center;
     justify-content: space-between;
 }
+
 .step h3 {
     color: #024e76;
     font-size: 46px;
@@ -207,6 +208,7 @@ section {
     flex: 1 12%;
     margin-right: 20px;
 }
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -226,7 +228,6 @@ section {
 }
 
 .trainer {
-    text-align: center;
     margin: 20px;
     background: #024e76;
     color: #fce138;
